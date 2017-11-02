@@ -1,0 +1,18 @@
+ *{margin:0; padding:0;}
+#all{ width:1000px; height:600px; margin:50px auto; background-color:#FFF }
+
+#all ul li{ width:210px; height:160px; background-color:white; float:left; margin:20px 10px; border-radius:20px; box-shadow:-10px 15px 20px rgba(0,0,0,1); padding:5px; transform:rotate(30deg);}
+#all ul{ list-style:none; }
+
+#all ul li img{width:210px; height:160px; border-radius:20px;}
+
+#all ul li:nth-child(1){transform:rotateX(60deg) rotateY(-25deg) rotateZ(12deg);}
+#all ul li:nth-child(2){transform:rotateX(30deg) rotateY(-15deg) rotateZ(30deg);}
+#all ul li:nth-child(3){transform:rotateX(40deg) rotateY(-25deg) rotateZ(5deg);}
+#all ul li:nth-child(4){transform:rotateX(40deg) rotateY(40deg) rotateZ(16deg);}
+#all ul li:nth-child(5){transform:rotateX(30deg) rotateY(-25deg) rotateZ(17deg);}
+#all ul li:nth-child(6){transform:rotateX(23deg) rotateY(-40deg) rotateZ(50deg);}
+#all ul li:nth-child(7){transform:rotateX(30deg) rotateY(-25deg) rotateZ(15deg);}
+#all ul li:nth-child(8){transform:rotateX(30deg) rotateY(-15deg) rotateZ(30deg);}
+
+#all ul li:hover{ transform:rotate3D(0,0,0,0deg) scale(1.2); transition:all 2s ease 0s; box-shadow:-100px 150px 20px rgba(0,0,0,0);} 

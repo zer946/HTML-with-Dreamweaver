@@ -1,0 +1,4 @@
+#one{ width:200px; height:200px; background-color:#0FF ; background-repeat:no-repeat; position:relative; left:30px; top:30px; animation:zhangjiakai 5s linear 0s infinite ; }
+
+@keyframes zhangjiakai{0%{left:100px; top:10px;} 25%{left:100px; top:500px; background-color:#CC3} 50%{left:800px; top:500px; background-color:#F63}  75%{left:800px; top:10px; background-color:#C36}100%{left:100px; top:10px;}}
+

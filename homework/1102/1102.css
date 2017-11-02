@@ -1,0 +1,5 @@
+#all{ width:800px; height:40px; margin:50px auto;}
+.aa{width:100px; height:40px;float:left; transform-style:preserve-3d; perspective:10000px;}
+.aa01{width:100px; height:40px; background-color:#0F9; text-align:center; line-height:40px; transform: translateZ(20px); border-radius:10px;}
+.aa02{width:100px; height:40px; background-color:gray; text-align:center; line-height:40px; position:relative; left:0; top:-40px; transform:rotateX(90deg) translateZ(20px) ;border-radius:10px;}
+.aa:hover{ transform:rotateX(-90deg); transition:all 0.5s linear 0s;}

@@ -1,0 +1,45 @@
+1.
+<ul>
+         <li>1</li>
+         <li>1</li>
+         <li>1</li>
+         <li>1</li>
+</ul>
+
+2.
+padding 内边距
+margin  外边距
+
+
+
+
+
+3.
+margin:2px   3px
+           上下  左右  
+
+margin:2px   3px  4px 5px
+            上       右   下  左
+
+margin:2px   3px    4px  
+             上    左右    下
+
+
+border-radius:200px
+  
+
+
+box-shadow :                 0 (正值向右)                            0（正值向下）                      10px                         rgba(51,204,255,1)
+
+                        (水平方向偏移量)                          （垂直方向偏移量）                 （阴影的值）              a:透明度  a=1 完全不透明   a=0 完全透明
+ 
+
+
+
+ transition:   all             1s               ease                   0s
+      过渡    全部           转多久             匀速         鼠标方上多长时间开始转
+
+
+
+scale(0.8)变为0.8倍
+

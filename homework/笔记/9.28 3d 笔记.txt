@@ -1,0 +1,9 @@
+margin:40px auto
+上下空40px  左右居中
+
+
+transform:rotate3D(0,0,0,0deg)         =  transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg)
+0转 1转
+
+各个0的意义：
+绕x轴不转 绕y轴不转 绕z轴不转 度数为零
